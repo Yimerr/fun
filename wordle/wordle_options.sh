@@ -2,7 +2,7 @@
 
 # This script should only be used to see how many valid options remained after completing a Worldle puzzle.
 # This can also be used to cheat, but doing so only cheats yourself.
-
+# enem alehu
 file=solution_set
 
 # process arguments
